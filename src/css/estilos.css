@@ -4,7 +4,7 @@ html {
 }
 
 body {
-    background: linear-gradient(purple, rgb(189, 0, 189), rgb(224, 2, 224));
+    background: linear-gradient(rgb(156, 3, 156), rgb(233, 0, 233));
     font-family: Arial;
     margin: 0 auto;
     max-width: 1120px;
@@ -110,8 +110,8 @@ body {
 }
 
 .home .foto.sombra-interna {
-    background: linear-gradient(purple, rgb(189, 0, 189), rgb(224, 2, 224));
-    background-size: 180% 180%;
+    background: linear-gradient( rgb(255, 23, 255), rgb(109, 3, 109));
+    background-size: 150% 150%;
     animation: gradient-animation 5s ease infinite;
 }
 
